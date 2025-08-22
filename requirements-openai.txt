@@ -1,0 +1,9 @@
+langchain-core>=0.2.2,<0.3.0
+langchain-openai>=0.1.0
+langgraph>=0.2.0
+langgraph-checkpoint>=2.0.0
+langgraph-sdk>=0.1.0
+langsmith<0.2.0,>=0.1.75
+openai>=1.0.0
+streamlit>=1.0.0
+python-dotenv>=1.0.0

@@ -1,0 +1,72 @@
+[
+    {
+        "product_name": "Gala Apples",
+        "description": "Sweet and crisp Gala apples, perfect for snacking.",
+        "category": "Produce",
+        "price": 1.99,
+        "quantity": 100
+    },
+    {
+        "product_name": "Ripe Bananas",
+        "description": "Fresh, ripe bananas, a good source of potassium.",
+        "category": "Produce",
+        "price": 0.50,
+        "quantity": 50
+    },
+    {
+        "product_name": "Navel Oranges",
+        "description": "Juicy and seedless Navel oranges, rich in Vitamin C.",
+        "category": "Produce",
+        "price": 0.75,
+        "quantity": 75
+    },
+    {
+        "product_name": "Strawberries",
+        "description": "Sweet and juicy strawberries, perfect for desserts and snacks.",
+        "category": "Produce",
+        "price": 3.99,
+        "quantity": 60
+    },
+    {
+        "product_name": "Avocados",
+        "description": "Creamy and nutritious avocados, a good source of healthy fats.",
+        "category": "Produce",
+        "price": 1.50,
+        "quantity": 40
+    },
+    {
+        "product_name": "Red Grapes",
+        "description": "Sweet and crisp red grapes, perfect for snacking.",
+        "category": "Produce",
+        "price": 2.99,
+        "quantity": 30
+    },
+    {
+        "product_name": "Blueberries",
+        "description": "Fresh blueberries, packed with antioxidants.",
+        "category": "Produce",
+        "price": 4.99,
+        "quantity": 80
+    },
+    {
+        "product_name": "Lemons",
+        "description": "Tart and juicy lemons, perfect for cooking and drinks.",
+        "category": "Produce",
+        "price": 0.60,
+        "quantity": 90
+    },
+    {
+        "product_name": "Watermelon",
+        "description": "Sweet and refreshing watermelon, perfect for summer.",
+        "category": "Produce",
+        "price": 5.99,
+        "quantity": 55
+    },
+    {
+        "product_name": "Pineapple",
+        "description": "Tropical pineapple, sweet and juicy.",
+        "category": "Produce",
+        "price": 3.50,
+        "quantity": 65
+    }
+]
